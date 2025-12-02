@@ -30,3 +30,6 @@ print("Đã nhập hàng thành công.")
 # Ví dụ: Mì tôm - Giá: 5000 - SL: 100
 pass
 
+def check_low_stock():
+# Duyệt list, kiểm tra nếu qty < 5 thì in ra cảnh báo
+pass
