@@ -25,3 +25,8 @@ if __name__ == "__main__":
 def add_product():
 # Nhập tên, giá, số lượng -> append vào products
 print("Đã nhập hàng thành công.")
+ def view_inventory():
+# Duyệt list products và in ra
+# Ví dụ: Mì tôm - Giá: 5000 - SL: 100
+pass
+
